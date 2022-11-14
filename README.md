@@ -20,11 +20,13 @@ Using JavaScript and HTML we have created an interactive webpage that allows the
 
 Once entering the website our client will see the basic opening and title with the picture at the top, as the client scrolls down they will begin to see all the data and filters that we have(which is in the image below). From this image below we have 5 different filters to choose from; the date, city, state, country & shape. You can choose any of these filters enter the search bar, then the HTML page will show all of the sightings for that specific search. Multiple filters can be entered at the same time to further inspect the data in the specific search bar that is entered.
 
+![ss2](https://user-images.githubusercontent.com/111541268/201752966-d0c5a7e3-c89f-495d-b5e1-af1f20112a3d.png)
 
 
 
 When a user wants to see data for the date 1/13/2010 for example, they must write this value in the first filter field. As we can see in Fig. below, 3 sightings were recorded in that date.
 
+![ss3](https://user-images.githubusercontent.com/111541268/201753532-513999cc-fce5-4831-a9a3-2f79c50d0c81.png)
 
 
 Users may enter as many filters as wanted together and empty the filter boxes that they don’t in order to parse the data around UFO sightings.
